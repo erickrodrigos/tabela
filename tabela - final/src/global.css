@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+
+    width: 100%;
+
+    font-size: 16px;
+
+    font-family: 'Ubuntu', sans-serif;
+}
+
+:root{
+    /* Cores */
+    --primary-color: #2E948A;
+    --secundary-color: #419488;
+    --text-titles: #FF4081;
+    --text-titles-ligth: #f37fa5;
+    --bg-background:#F6F6F6;
+    --basic-color:#fff;
+    --line-color: #c4c4c4;
+    --text-titles-green:#009688;
+
+    /* Fontes */
+    --font-size-sm: 1.25rem;
+    --font-size-md: 2.188rem;
+    --font-size-big: 3.438rem;
+
+}
